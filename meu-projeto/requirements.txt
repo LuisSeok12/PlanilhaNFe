@@ -1,0 +1,4 @@
+tkinter
+pandas
+PyPDF2
+lxml
