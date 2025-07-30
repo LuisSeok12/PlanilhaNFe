@@ -25,11 +25,6 @@ Para instalar as dependências necessárias, execute o seguinte comando:
 pip install -r requirements.txt
 ```
 
-Se você deseja instalar o projeto como um pacote, você pode usar o arquivo `setup.py`:
-
-```
-python setup.py install
-```
 
 ## Uso
 Para iniciar a aplicação, execute o arquivo `__main__.py` localizado na pasta `src`:
